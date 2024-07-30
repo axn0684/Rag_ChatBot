@@ -1,0 +1,10 @@
+PyMuPDF
+tqdm
+pip setuptools wheel
+spacy
+spacy download en_core_web_sm
+nltk
+sentence-transformers
+"huggingface_hub[cli]"
+pickle
+torch
